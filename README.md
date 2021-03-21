@@ -3,4 +3,4 @@
 Visit the following YouTube link to view the final video.
 https://youtu.be/k2pl8cxbeXU
 
-Other softwares like Adobe After Effects, Wondershare Filmora, and Photoshp were also used for creating textures, editing sounds and finalizing video frames.
+This short animated movie was created using Autodesk Maya ( Modeling and Animation), Wondershare Filmora (Editing Video and Sounds), Adobe After Effects (Editing Rendered Video Frames), and Adobe PhotoShop (Creating Textures).
